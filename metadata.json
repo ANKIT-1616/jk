@@ -1,0 +1,6 @@
+{
+  "name": "Something I Made For You",
+  "description": "An interactive romantic love letter website with a handmade connect-the-dots experience, music, and a personal love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
